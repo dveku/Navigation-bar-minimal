@@ -39,7 +39,20 @@
         display: inline-block;
         margin-left: 70px;
         padding-top: 25px;
-        color: blue;
+    }
+    
+    nav ul li a {
         text-decoration: none;
-        ;
+    }
+    
+    a {
+        color: rgb(51, 255, 0);
+    }
+    
+    a:hover {
+        color: rgb(6, 79, 238);
+    }
+    
+    a:active {
+        color: red;
     }
