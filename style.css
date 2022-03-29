@@ -1,0 +1,11 @@
+body {
+    marigin: 0;
+    background-color: black;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 300;
+}
+
+.contianer {
+    width: 80%;
+    margin: 0 auto;
+}
