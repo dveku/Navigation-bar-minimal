@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\mypages\\images"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Navigation-bar"
+    }
+}
